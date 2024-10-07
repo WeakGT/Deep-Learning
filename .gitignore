@@ -1,0 +1,9 @@
+## for macOS
+**/.DS_Store
+
+**/.ipynb_checkpoints/
+
+*.aux
+*.log
+*.toc
+*.out
